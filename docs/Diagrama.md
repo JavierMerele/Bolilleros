@@ -6,7 +6,7 @@ class Bolillero{
     +NroBolilla: int
     +Bolillas: List~int~
     +BollilaJugada: List~int~ 
-    +BolillaAcertada: List~int~
+
 }
 
 
@@ -16,4 +16,8 @@ class IAzar{
     +numeros: int
 }
 
+
+class Azar{
+
+}
 ```
